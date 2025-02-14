@@ -5,11 +5,12 @@
 I am Jialuo Li, a senior undergraduate student of Yao Class at Tsinghua University, majoring computer science. I am working on computer vision, especially generative model and multi-modal model.
 
 - 🔭 I’m currently interning at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 💬 Ask me about anything tech related
 - 📫 How to reach me: ljl20031007@gmail.com
+- 📚 &nbsp; When I am free, I like movies and songs.
 
-### GitHub Stats ⭐
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### GitHub Stats ⭐
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <p align="center"> 
