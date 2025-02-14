@@ -3,7 +3,7 @@
 I am Jialuo Li. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### 🌱 What do I do and What have I done? 
-<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+<img align="right" height="250" width="250" alt="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 ### ⚡ One line that describes me best? 
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
