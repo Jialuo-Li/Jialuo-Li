@@ -8,18 +8,16 @@ I am Jialuo Li, a senior undergraduate student of Yao Class at Tsinghua Universi
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: ljl20031007@gmail.com
 
+### GitHub Stats ⭐
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Jialuo-Li/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
-
 ***
-
-### GitHub Stats ⭐
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
