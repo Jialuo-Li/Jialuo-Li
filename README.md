@@ -2,9 +2,11 @@
 
 <img align="right" height="250" width="250" alt="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
-I am Jialuo Li, a senior undergraduate student of Yao Class at Tsinghua University. I am currently working on video understanding and generation, as well as embodied agent.
+I am Jialuo Li, a senior undergraduate student of Yao Class at Tsinghua University, majoring computer science. I am working on computer vision, especially generative model and multi-modal model.
 
-### 🌱 What do I do and What have I done? 
+- 🔭 I’m currently interning at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: ljl20031007@gmail.com
 
 <p align="center"> 
   Visitors count<br>
