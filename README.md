@@ -2,8 +2,6 @@
 
 <img align="right" height="250" width="250" alt="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
-I am Jialuo Li, a senior undergraduate student of Yao Class at Tsinghua University, majoring computer science. I am working on computer vision, especially generative model and multi-modal model.
-
 - 🔭 &nbsp; I’m currently interning at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 - 💬 &nbsp; Ask me about anything tech related
 - 📫 &nbsp; How to reach me: ljl20031007@gmail.com
