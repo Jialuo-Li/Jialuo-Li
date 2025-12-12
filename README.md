@@ -14,7 +14,6 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake.svg">
 </picture>
 
 
