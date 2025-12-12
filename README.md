@@ -8,12 +8,7 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 - 📫 &nbsp; How to reach me: ljl20031007@gmail.com
 - 📚 &nbsp; When I am free, I like movies and songs.
 
-🏆 **Github Stats:**
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### 🐍 Contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
 
 <picture>
@@ -22,11 +17,6 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"> 
-<p align="center">
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Jialuo-Li/count.svg" />
-</p>
 
 ***
 
