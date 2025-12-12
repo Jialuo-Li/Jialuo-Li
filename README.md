@@ -11,6 +11,11 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 <!-- ### GitHub Stats ⭐
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+#### 🐍 contributions
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
+</td>
+<td valign="top"  width="50%">
+
 
 <p align="center"> 
   Visitors count<br>
