@@ -11,28 +11,17 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 <!-- ### GitHub Stats ⭐
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-🏆 **my github stats:**
+🏆 **Github Stats:**
 
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jialuo-Li&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
 
 <table>
-<tr>
-<td valign="top"  width="50%">
-
-#### 🐍 contributions
+#### 🐍 Contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
 </td>
 <td valign="top"  width="50%">
-
-#### 👉 [Recent Blog](https://chegva.com)
-
-{{ range $index, $item := $.Articles }}
-- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
-{{- end}}
-</td>
-</tr>
 </table>
 
 <p align="center"> 
