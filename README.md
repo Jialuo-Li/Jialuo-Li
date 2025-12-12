@@ -8,20 +8,39 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 - 📫 &nbsp; How to reach me: ljl20031007@gmail.com
 - 📚 &nbsp; When I am free, I like movies and songs.
 
-
 🏆 **Github Stats:**
 
-| ![](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true) | ![Jialuo-Li's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jialuo-Li&layout=compact&hide_border=true&langs_count=10) |
-| - | - |
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Jialuo-Li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 🐍 Contributions
+![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jialuo-Li/Jialuo-Li/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center"> 
 <p align="center">
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Jialuo-Li/count.svg" />
 </p>
+
+***
+
+<!--
+**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently interning at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
