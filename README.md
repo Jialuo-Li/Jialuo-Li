@@ -17,10 +17,9 @@ I am Jialuo Li, a Computer Science graduate student at Georgia Tech. Before that
 |-|-|
 
 
-<table>
 #### 🐍 Contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
-</table>
+
 
 <p align="center"> 
   Visitors count<br>
